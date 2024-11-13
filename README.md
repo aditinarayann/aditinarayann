@@ -60,3 +60,7 @@ Titanic: Calculate survival percentages by gender and class.
 ## 8. Class 8:
 
 ## 9. Class 9: 
+
+## Author :
+
+   **Aditi Narayan** - [GitHub Profile](https://github.com/aditinarayann/aditinarayann.git)
