@@ -79,7 +79,7 @@ Titanic: Calculate survival percentages by gender and class.
 
 Located in the `assignment-6` branch, inside the `Assignment6` folder.
 
-## 7. Class 7: 
+## 7. Class 7: Datasets Pandas II
 Objective: Deepen understanding of data manipulation using Pandas, with a focus on advanced transformations, handling missing data, and creating reusable workflows.
 
 Topics: Lambda and map functions, advanced data manipulation, handling missing data, and transformations.
@@ -101,7 +101,7 @@ Create a new column, professor_last_name, by extracting the last name from the p
 
 Located in the `assignment-7` branch, inside the `Assignment7` folder.
 
-## 8. Class 8:
+## 8. Class 8: Matplotlib and Seaborn – Data Visualization
 Objective: Introduce data visualization using Matplotlib and Seaborn, focusing on advanced plotting techniques and customization.
 
 Topics: Matplotlib and Seaborn integration, exploratory data visualization, and plot styling.
