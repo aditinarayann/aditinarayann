@@ -119,7 +119,7 @@ Pointplot: Average Grade by Course, finding the course with the highest average 
 
 Located in the `assignment-8` branch, inside the `Assignment8` folder.
 
-## 9. Class 9: 
+
 
 ## Author :
 
